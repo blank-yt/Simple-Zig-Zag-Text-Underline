@@ -1,0 +1,40 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 20px;
+  place-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #decba4, #6e8181);
+}
+
+h3 {
+  font-family: system-ui, sans-serif;
+  color: #f8eded;
+  font-size: 6rem;
+  margin: 0;
+  cursor: pointer;
+  padding: 0 0.1em;
+}
+
+.hover {
+  --c: #932e3e;
+  --s: 0.15em;
+  line-height: 1.1em;
+  padding-bottom: calc(2.1 * var(--s));
+  background: conic-gradient(from 135deg at top, var(--c) 90deg, #0000 0) left 0
+      bottom var(--s) / calc(2 * var(--s)) var(--s) repeat-x,
+    conic-gradient(from -45deg at bottom, var(--c) 90deg, #0000 0) bottom 0 left
+      var(--s) / calc(2 * var(--s)) var(--s) repeat-x;
+  --_m: linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0) 50% / var(--_p, 0%) padding-box no-repeat;
+  -webkit-mask: var(--_m);
+  mask: var(--_m);
+  transition: 0.5s;
+}
+
+.hover:hover {
+  --_p: 100%;
+  color: var(--c);
+}
