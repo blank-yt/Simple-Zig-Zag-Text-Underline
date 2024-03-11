@@ -6,11 +6,11 @@
 [![Fork this repo](https://badgen.net/github/forks/blank-yt/Simple-Zig-Zag-Text-Underline-Animation)](https://github.com/blank-yt/Simple-Zig-Zag-Text-Underline-Animation/fork/)
 [![Releases](https://img.shields.io/github/downloads/blank-yt/Simple-Zig-Zag-Text-Underline-Animation/total.svg)](https://github.com/blank-yt/Simple-Zig-Zag-Text-Underline-Animation/archive/refs/tags/Release.zip)
 
-Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/90943b5b-4bb9-4f01-99f1-58d5319418bd/deploy-status)](https://spectacular-wisp-bc2cb7.netlify.app/) [`(Test it out here)`](https://spectacular-wisp-bc2cb7.netlify.app/)
+Status: [![success](https://user-images.githubusercontent.com/100468888/208658036-514215da-7838-44a9-8468-3a37e7e73b13.png)](https://blanksite.eu/preview/21a5fd061f0c3e3ec5683551f3da7f0d1b788e15/) [`(Test it out here)`](https://blanksite.eu/preview/21a5fd061f0c3e3ec5683551f3da7f0d1b788e15/)
 
 ## Getting Started
 - Either click `Code` (green button on the top of the repository) and then [`Download ZIP`](https://github.com/blank-yt/Simple-Zig-Zag-Text-Underline-Animation/archive/refs/tags/Release.zip)
 - or [`Fork`](https://github.com/blank-yt/Simple-Zig-Zag-Text-Underline-Animation/fork) it to your repository.
 
 ## Video
-[![Video](https://img.youtube.com/vi/EQyCgDC9KeU/0.jpg)](https://www.youtube.com/watch?v=EQyCgDC9KeU)
+<a href="https://www.youtube.com/watch?v=EQyCgDC9KeU"><img src="https://img.youtube.com/vi/EQyCgDC9KeU/maxresdefault.jpg" height="300" alt="Video not available yet"></a>
